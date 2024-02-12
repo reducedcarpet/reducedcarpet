@@ -4,6 +4,7 @@
   some AWS Backend in [Python](https://www.python.org).
 - 🌱 I’m currently making my first package on Pub.dev.
 - ⚡ I love doggos and puppers.
+- Checkout [My Personal Website](https://reducedcarpet.github.io/).
 
 ### Connect with me
 
