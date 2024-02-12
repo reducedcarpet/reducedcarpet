@@ -21,5 +21,5 @@
 <p align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=reducedcarpet&show_icons=true&theme=github_light&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&&count_private=false&include_all_commits=true" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reducedcarpet&theme=github_light&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&hide=C#,javascript,css&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reducedcarpet&theme=github_light&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&hide=csharp,javascript,css&exclude_repo=LABMobile3DView&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
