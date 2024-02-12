@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hello there! 👋
 
-<!--
-**reducedcarpet/reducedcarpet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working with [Dart](https://Dart.dev) and [Flutter](https://Flutter.dev), with
+  some AWS Backend in [Python](https://www.python.org).
+- 🌱 I’m currently making my first package on Pub.dev.
+- 📫 How to reach me: michaelcadenpike@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ I love doggos and puppers.
 
-Here are some ideas to get you started:
+### Connect with me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+<a href="https://www.linkedin.com/in/michael-pike-154616a2/" target="_blank">
+<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:michaelcadenpike@gmail.com">
+<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+</p> 
